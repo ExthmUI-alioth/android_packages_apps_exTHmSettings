@@ -262,4 +262,8 @@
     <!-- chinese lunar calendar -->
     <string name="qs_show_lunar_calendar_title">Chinese Lunar Calendar</string>
     <string name="qs_show_lunar_calendar_summary">Show lunar calendar in Quick Settings</string>
+
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Ignore window secure flags</string>
+    <string name="ignore_window_secure_summary">Remove screenshot and screenrecord limits for all apps. This can be convenient in some cases but may lead to privacy leaks.</string>
 </resources>
